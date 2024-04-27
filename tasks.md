@@ -14,3 +14,12 @@
 - storing key in cache on server side: pending
 - storing key in client side: pending
 - adding client public key in header on client side: pending
+
+
+
+
+---
+
+- add key generation logic on server start
+- storing and retriving key from cache
+- interceptor
